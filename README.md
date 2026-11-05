@@ -1,0 +1,2 @@
+# kukirinlife
+script
